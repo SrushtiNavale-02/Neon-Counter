@@ -7,7 +7,7 @@ A sleek, interactive counter application featuring a dark interface with neon-gr
 Neon Counter is a beginner-friendly web development project created to practise the fundamentals of HTML, CSS, and JavaScript. It combines a minimal visual design with simple, interactive counter functionality.
 
 ## Live Demo
-Check out the live link here: https://srushtinavale-02.github.io/Neon-Counter/
+Check out the live project here: https://srushtinavale-02.github.io/Neon-Counter/
 
 ## Features
 
