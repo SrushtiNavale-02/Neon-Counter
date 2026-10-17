@@ -23,11 +23,9 @@ Check out the live project here: https://srushtinavale-02.github.io/Neon-Counter
 - CSS3
 - JavaScript
 
-## Getting Started
-
 ## Learning Goals
 
-This project was built while following a web development tutorial to practise:
+This mini-project was built to practise:
 
 - JavaScript event handling
 - DOM manipulation
